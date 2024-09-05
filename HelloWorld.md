@@ -1,6 +1,6 @@
-# Github readme file
+# HelloWorld.md
 
-## HelloWorld.md
+## This is a markdown file
 This is a Github readme file, and has an extension of .md
 The .md file is usually placed at the root level so that anybody visiting the GIT repo can get a quick overview about the project.
 
